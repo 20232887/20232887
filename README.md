@@ -24,3 +24,8 @@
 이 포트폴리오 사이트는 [Start Bootstrap](https://startbootstrap.com/)의 **Personal** 테마를 기반으로 제작되었습니다.  
 테마 출처: https://startbootstrap.com/theme/personal  
 HTML, CSS 구조를 참고하여 개인 이력서 및 프로젝트 소개에 맞게 수정하였습니다.
+
+## 📎 링크
+- GitHub 저장소: https://github.com/20232887/20232887
+- 배포된 사이트: https://20232887.github.io/20232887/
+
